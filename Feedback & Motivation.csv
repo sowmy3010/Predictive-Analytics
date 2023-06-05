@@ -1,0 +1,370 @@
+Timestamp,Email Address,gender,age,program of study,f_confidence,f_gap,f_clear,f_specific,f_focus,f_time,f_detailed,f_tone,f_helpful,f_likely_seek,m_motivated,m_challenge,m_enthusiastic,m_confident,m_control,m_effort,m_seek_feedback,m_helpful,m_satisfaction,m_continue_journey
+4/22/2023 22:12:11,varshalnarayanan@gmail.com,Female,19,data science,3,1,2,2,2,2,3,4,4,2,1,5,5,1,3,5,1,1,2,3
+4/22/2023 22:17:21,itsmekeertz@gmail.com,Female,19,MSc,4,4,3,2,3,5,4,4,4,4,4,3,2,3,4,3,3,4,3,3
+4/22/2023 22:18:05,sowmy3010@gmail.com,Female,19,Data Science,3,2,2,3,2,1,2,4,2,3,5,4,3,3,4,5,3,3,3,4
+4/22/2023 22:19:20,tejaswini.pk.2004@gmail.com,Female,18,Msc.Data Science,2,2,4,4,2,3,1,5,3,2,4,3,2,5,4,2,4,1,3,4
+4/22/2023 22:23:30,anoormalik09@gmail.com,Male,18,Computer science and design ,3,3,3,4,3,4,1,2,4,3,4,3,3,4,4,4,4,4,3,4
+4/22/2023 22:25:32,vinotharamkumar27@gmail.com,Female,19,M.Sc data science ,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/22/2023 22:26:56,ruthirockstar2218@gmail.com,Female,18,MTech CSE,5,5,5,3,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+4/22/2023 22:29:15,durai.varshith@gmail.com,Male,19,MSc Data science,4,4,3,5,4,3,3,4,2,5,3,5,4,4,3,2,4,3,2,4
+4/22/2023 22:29:51,balasundaram@student.tce.edu,Male,19,Msc data science ,3,3,4,4,5,3,5,5,4,5,4,5,3,4,3,3,4,5,3,4
+4/22/2023 22:30:08,senthilshunmugam@student.tce.edu,Male,19,MSc Data Science ,5,4,4,4,5,5,5,5,5,4,4,3,3,5,4,5,3,4,4,4
+4/22/2023 22:30:35,ajshajaj@gmail.com,Female,18,CA,3,4,3,3,3,4,2,3,5,4,5,5,5,5,5,4,4,4,4,5
+4/22/2023 22:32:54,pnandhini@student.tce.edu,Female,19,DATA SCIENCE,3,4,3,2,4,4,2,2,4,4,5,4,5,4,4,3,3,2,2,3
+4/22/2023 22:33:10,shyamsundarm@student.tce.edu,Male,19,Data science,3,3,3,3,3,3,3,3,3,3,2,5,2,2,5,3,3,3,3,1
+4/22/2023 22:37:02,psuryaprakash@student.tce.edu,Male,19,B.E. MECHANICAL ,3,4,4,4,3,3,4,2,5,4,4,4,5,5,5,4,4,4,4,5
+4/22/2023 22:40:00,nagalakshmi1979.ps@gmail.com,Female,21,BCom,3,4,5,5,5,4,4,4,5,4,4,3,4,3,3,5,3,4,3,4
+4/22/2023 22:41:08,sairakshanasrinivasan@gmail.com,Female,18,BTech,5,3,4,4,4,5,4,3,5,4,5,4,5,5,4,4,4,5,5,5
+4/22/2023 22:41:33,anusham@student.tce.edu,Female,19,BE ECE,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4,5,4,4,4
+4/22/2023 22:42:55,narmadhabts@gmail.com,Female,19,Msc data science,3,2,3,2,2,3,2,4,3,4,3,4,4,3,2,4,2,4,3,4
+4/22/2023 22:46:16,9921010003@klu.ac.in,Male,20,B.tech,2,3,3,2,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/22/2023 22:46:24,sankarmdu2003@gmail.com,Male,19,2nd year BE ECE,4,4,5,3,5,4,4,4,5,5,5,4,5,5,4,5,5,5,5,5
+4/22/2023 22:46:56,sahanasagi2003@gmail.com,Female,19,B.E COMPUTER SCIENCE ENGINEERING ,5,5,5,5,5,5,5,5,5,5,4,5,4,3,4,3,5,5,5,5
+4/22/2023 22:49:09,harishkalirajan@gmail.com,Male,19,B TECH CSE,3,4,3,4,4,4,4,4,5,5,3,3,3,3,3,3,3,3,3,4
+4/22/2023 22:51:03,rckiruthiga@gmail.com,Female,20,BE ,5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/22/2023 22:51:27,harinivs1911@gmail.com,Female,19,MBBS,4,3,4,4,4,4,3,4,4,4,5,5,5,5,4,5,4,4,4,4
+4/22/2023 22:51:38,valliammaise@student.tce.edu,Female,20,Data Science,4,4,3,3,4,2,2,3,4,4,5,3,5,4,5,2,1,4,3,4
+4/22/2023 22:51:46,sonayd99@gmail.com,Female,23,Arch,4,3,3,4,4,3,2,3,4,4,4,4,5,4,3,4,3,4,3,5
+4/22/2023 22:52:29,9921004258@klu.ac.in,Male,19,B TECH CSE,5,4,3,4,3,4,3,4,5,5,3,4,4,4,4,4,5,4,4,4
+4/22/2023 22:52:36,ndharini02@gmail.com,Female,20,Bachelors in Engineering (B.E.),4,3,4,5,3,3,5,3,4,4,4,4,5,3,4,4,3,3,4,4
+4/22/2023 22:54:00,bhavanisumi04@gmail.com,Female,18,Bachelor of engineering ,,,,2,2,2,3,2,3,2,3,3,3,3,3,3,3,5,4,5
+4/22/2023 22:54:31,vishnusankar@student.tce.edu,Male,19,Msc.Data Science,4,2,2,5,5,4,5,5,5,3,5,5,5,5,5,5,5,5,5,5
+4/22/2023 22:57:02,kowshiksai14@gmail.com,Male,18,BA ECONOMICS ,3,2,3,3,3,2,3,3,4,3,4,4,4,3,3,3,4,4,2,4
+4/22/2023 22:57:43,hariharinni@student.tce.edu,Female,18,Data science ,3,3,4,3,5,4,2,4,5,4,2,5,3,2,4,3,3,4,3,3
+4/22/2023 22:58:59,maddy3664@gmail.com,Male,19,B.E ECE,5,4,5,5,5,5,3,4,5,5,5,4,5,4,5,5,5,5,5,5
+4/22/2023 23:00:45,jayshnee@student.tce.edu,Female,18,M.sc Data Science ,3,3,2,4,2,2,3,4,3,3,4,2,2,4,2,2,3,3,2,1
+4/22/2023 23:01:44,saravananmsk1210@gmail.com,Male,19,Data Science ,4,2,3,4,5,4,4,3,5,3,5,4,5,5,3,4,3,4,4,3
+4/22/2023 23:02:15,vishwajith@student.tce.edu,Male,19,Msc Data Science,4,4,4,,4,4,4,3,5,2,2,2,3,3,1,4,2,4,4,2
+4/22/2023 23:03:31,niranjana.kingdom@gmail.com,Female,17,ECE,2,2,4,3,2,3,3,1,1,1,3,3,2,3,3,5,2,2,4,5
+4/22/2023 23:08:50,anandavarman@student.tce.edu,Male,21,M.sc. data science ,3,2,2,2,1,1,1,3,3,4,1,3,3,3,1,1,2,2,3,3
+4/22/2023 23:11:01,msaravanakumar1@student.tce.edu,Male,19,DATA SCIENCE,4,3,3,5,3,2,5,2,3,3,4,3,3,3,3,3,4,4,2,3
+4/22/2023 23:11:17,2112108@nec.edu.in,Female,18,B.E,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/22/2023 23:11:25,swathibabu2113@gmail.com,Female,18,B.Tech,4,3,4,3,3,3,4,3,3,3,5,5,5,4,4,4,4,4,3,3
+4/22/2023 23:12:05,rgokul2001@gmail.com,Male,22,CA Intermidate ,3,5,4,5,4,4,4,3,5,5,4,5,3,4,3,3,2,2,1,4
+4/22/2023 23:13:58,agashni2004@gmail.com,Female,18,Bachelor of commerce,3,2,4,3,3,4,3,4,3,3,3,3,3,3,3,3,3,3,3,3
+4/22/2023 23:15:44,rajeswari8440@gmail.com,Female,19,Bachelors degree,5,2,1,1,2,1,2,5,2,5,4,3,4,1,5,2,5,1,4,4
+4/22/2023 23:16:03,saravanakumarsk1210@gmail.com,Male,19,DATA SCIENCE,1,2,2,2,3,1,3,1,2,2,3,2,2,1,2,2,3,3,3,2
+4/22/2023 23:19:34,shyam1204shyam@gmail.com,Male,19,Bcom,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/22/2023 23:33:37,harikumaran117@gmail.com,Male,21,B.E.,3,2,2,1,2,2,1,3,1,1,4,5,2,3,3,2,2,1,1,3
+4/22/2023 23:35:32,nik35572@gmail.com,Female,19,Civil,4,2,3,3,3,3,3,2,4,4,5,4,4,5,4,4,4,5,3,5
+4/22/2023 23:36:47,raghavanbalasenthil003@gmail.com,Male,19,Automobile ,4,2,4,4,3,3,4,5,4,3,3,3,5,5,3,2,3,5,2,4
+4/22/2023 23:37:24,joshikrajjojo@gmail.com,Male,20,Data Science,4,3,5,4,4,4,5,5,5,4,4,4,5,4,4,4,3,4,4,4
+4/22/2023 23:48:42,pranav.jk24@gmail.com,Male,21,MCA,4,3,3,4,3,4,3,5,3,2,4,2,2,3,3,4,2,2,2,4
+4/22/2023 23:49:46,vel88342@gmail.com,Male,20,IT,1,2,3,3,2,3,1,3,2,2,3,3,4,2,4,2,4,3,2,4
+4/22/2023 23:50:38,2115054@nec.edu.in,Female,10,Information technology ,4,4,3,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+4/22/2023 23:54:53,spreetha321@gmail.com,Female,19,B tech computer science,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+4/23/2023 0:16:47,vikramsd@student.tce.edu,Male,19,Btech IT,3,2,2,3,2,2,3,5,3,3,4,3,5,5,5,3,3,3,1,3
+4/23/2023 0:18:07,harshiniv@student.tce.edu,Female,19,Data Science,4,3,3,4,4,4,4,4,5,4,4,3,4,4,4,3,4,4,4,4
+4/23/2023 0:30:04,tawfiqmohammed707@gmail.com,Male,21,M.Sc Data Science,4,3,4,3,3,4,3,5,5,4,4,4,3,3,4,3,4,4,3,4
+4/23/2023 0:35:44,sabirami2@student.tce.edu,Female,18,Btech-IT,4,3,4,4,3,4,4,4,4,3,4,4,4,4,4,5,4,4,4,4
+4/23/2023 0:45:28,prithv.raaj824@gmail.com,Male,19,Engineering,3,2,3,2,2,2,3,1,2,4,5,5,5,4,1,2,2,3,1,1
+4/23/2023 1:02:54,samyuktharavi03@gmail.com,Female,19,Bsc Psychology ,4,3,3,3,3,3,2,4,3,3,4,4,4,5,4,5,4,3,4,5
+4/23/2023 1:48:10,Vijayavarshini1804@gmail.com,Female,19,ELECTRONICS AND COMMUNICATION ENGINEERING ,4,4,4,4,,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+4/23/2023 10:22:52,vishnumaha419@gmail.com,Female,20,Bsc applied science ,2,3,2,2,2,3,3,3,3,3,5,5,3,3,3,3,3,3,3,3
+4/23/2023 10:22:59,anugayathri@student.tce.edu,Female,18,Data Science ,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,4,2,4,3,4
+4/23/2023 10:27:29,sivaramansivani@gmail.com,Female,18,B.E.civil,4,3,3,4,4,3,4,2,4,3,5,4,5,5,4,5,3,4,4,4
+4/23/2023 10:30:17,rina@student.tce.edu,Female,20,Csbs,3,3,4,4,4,4,4,4,4,4,3,4,3,3,2,3,2,3,4,3
+4/23/2023 10:50:39,kanishka.sureshbabu@gmail.com,Female,19,B.Com PA,4,2,3,2,4,2,2,3,3,3,3,3,5,3,4,5,4,2,4,4
+4/23/2023 10:58:42,janakiraman0634@gmail.com,Male,19,B.E. ECE,4,3,2,2,4,3,2,4,3,5,4,4,5,5,5,5,2,3,4,4
+4/23/2023 11:01:32,bkaathithsanjay@gmail.com,Male,21,Mechatronics,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/23/2023 11:08:09,venkateshwarantp@student.tce.edu,Male,20,BE CSE,3,2,2,2,2,2,3,2,3,4,2,4,2,3,3,4,2,2,2,2
+4/23/2023 11:10:18,rr912072@student.nitw.ac.in,Male,20,BTech,3,2,3,3,2,2,3,2,2,2,4,3,5,4,5,3,4,4,2,3
+4/23/2023 11:16:41,maha.tomholland@gmail.com,Female,19,Btech AI and DS ,4,3,3,3,3,4,1,2,3,3,2,3,2,3,3,3,3,2,2,3
+4/23/2023 12:20:55,2115403@nec.edu.in,Female,19,Engineering,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+4/23/2023 12:21:44,abc@gmail.com,Female,21,be,2,1,4,3,3,4,2,2,4,2,2,4,1,4,3,3,2,4,4,4
+4/23/2023 12:22:12,vidhyasarathy08@gmail.com,Female,19,B.tech,5,5,1,4,3,5,1,1,1,3,3,3,3,3,3,5,3,3,3,1
+4/23/2023 12:23:18,2115035@nec.edu.in,Female,19,BTECH IT,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+4/23/2023 12:28:09,22eng060@ldc.edu.in,Female,18,B.A.English,3,3,4,4,3,3,3,4,4,4,3,3,5,3,3,3,3,3,4,3
+4/23/2023 12:31:12,sterlinflorece@gmail.com,Female,20,B.tech agricultural engineering ,1,5,2,2,3,3,1,3,2,3,2,5,2,4,2,3,2,3,1,2
+4/23/2023 12:36:55,naveenakk03@gmail.com,Female,19,B.tech agri,5,4,5,1,3,5,1,5,5,5,5,3,1,1,3,1,3,5,3,5
+4/23/2023 12:38:23,rekha.prakash0508@gmail.com,Female,19,MSC data science ,3,3,4,4,4,4,2,2,4,2,1,2,3,3,2,4,2,1,5,5
+4/23/2023 13:03:39,krvbabufrancis@gmail.com,Female,18,College ,4,4,5,3,3,4,4,4,4,4,4,3,4,4,3,4,4,4,4,4
+4/23/2023 13:21:44,varinrxking@gmail.com,Male,23,CSE ,2,4,3,5,5,4,4,2,1,2,1,3,5,3,3,4,2,3,2,2
+4/23/2023 14:08:59,s.harshitha1428@gmail.com,Female,19,Btech biotechnology,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/23/2023 14:12:43,jesanth@student.tce.edu,Male,20,B.E.Civil,4,3,4,3,3,3,3,3,2,2,3,3,3,3,3,3,3,2,3,3
+4/23/2023 14:47:14,janetsherin0504@gmail.com,Female,19,Btech,4,2,2,1,3,2,2,4,3,5,5,5,5,5,4,4,3,2,4,4
+4/23/2023 15:05:11,asvitha@student.tce.edu,Female,18,Msc Datascience ,4,4,4,3,3,3,2,4,5,4,3,3,4,4,2,2,1,5,5,4
+4/23/2023 19:31:45,shruthika@gmail.com,Female,19,MBBS,3,2,3,3,4,3,4,3,2,4,3,2,2,4,2,4,2,4,4,4
+4/23/2023 19:31:53,aadeeshsembu0709@gmail.com,Male,20,BDS,4,4,3,2,4,2,3,2,3,2,4,3,4,4,3,2,2,4,2,2
+4/23/2023 19:32:23,teja2004@gmail.com,Female,21,First yr CSE,4,2,2,2,3,2,3,4,4,3,2,2,3,4,2,2,4,2,4,2
+4/23/2023 19:33:37,pranavakumar19112@gmail.com,Male,19,IT,4,2,4,4,2,3,4,2,2,3,2,4,3,3,4,2,3,3,4,4
+4/23/2023 19:36:12,krishna21@gmail.com,Male,18,Mech,4,4,4,2,4,2,2,4,3,2,2,4,4,4,4,2,3,3,3,4
+4/23/2023 19:36:13,rithickjoshua@gmail.com,Male,19,MCA,2,4,2,4,2,4,3,4,4,3,3,4,4,4,4,3,3,4,4,4
+4/23/2023 19:36:13,sagdanush6204@gmail.com,Male,19,BSc,5,4,5,5,3,5,4,2,3,3,5,5,3,4,4,5,4,2,5,2
+4/23/2023 19:37:29,pradeeprock@gmail.com,Male,19,CS,4,3,4,4,4,4,3,3,2,2,2,4,2,2,3,4,2,4,3,4
+4/23/2023 19:37:29,sahanasagi2003@gmail.com,Female,19,CSE,3,4,2,5,4,5,3,2,3,3,2,3,3,4,5,2,4,4,5,5
+4/23/2023 19:41:26,malavika21@yahoo.com,Female,21,CSBS,2,3,4,3,2,2,3,2,3,2,3,2,3,4,2,4,3,4,4,2
+4/23/2023 19:41:26,naganandhinistar@gmail.com,Female,19,BCA,2,3,4,4,2,4,2,5,5,3,5,5,2,3,4,2,5,4,3,4
+4/23/2023 19:44:18,kiran69@gmail.com,Female,19,ECE,2,3,3,3,4,3,2,3,3,2,3,4,3,4,2,4,4,3,4,3
+4/23/2023 19:44:18,sanjaypraneetha2704@gmail.com,Male,19,B.Optometry,5,2,3,3,4,5,5,5,5,4,5,5,3,3,3,4,4,4,4,5
+4/23/2023 19:47:57,rithvik2004@gmail.com,Male,19,CSBS,3,4,2,2,4,3,3,2,2,4,4,3,2,3,4,3,4,3,3,2
+4/23/2023 19:47:57,smahalakshmi2@student.tce.edu,Female,19,Arch,5,5,3,2,4,2,4,4,4,3,2,3,4,5,2,4,2,5,2,4
+4/23/2023 19:48:42,mahalakshmi1818@yahoo.com,Female,20,CSBS,4,4,4,3,3,3,2,3,4,3,4,3,4,3,2,2,4,2,3,4
+4/23/2023 19:48:42,sec21me065@sairamtap.edu.in,Male,19,MCA,3,4,3,3,5,5,3,3,5,5,3,2,3,2,4,3,2,2,3,3
+4/23/2023 19:48:58,sreeman9988@gmail.com,Male,20,EEE,3,2,3,2,2,2,4,2,4,3,4,2,4,2,3,4,3,4,3,4
+4/23/2023 19:48:58,dharadharshini444@gmail.com,Female,19,B.Tech CSE,2,2,5,5,5,3,4,5,4,2,5,3,5,4,3,4,2,5,4,2
+4/23/2023 19:50:11,vinothkumar1981@yahoo.com,Female,19,Mechatronic second yr,2,4,2,2,4,4,4,2,2,3,2,3,2,4,3,4,4,2,4,4
+4/23/2023 19:50:11,vimi0414@gmail.com,Female,19,BE,3,2,2,5,3,2,5,2,3,5,2,3,5,2,3,3,2,5,2,2
+4/23/2023 19:53:56,akshararamachandran25@gmail.com,Male,18,Arch,4,2,2,3,2,2,4,3,4,4,4,4,2,4,4,4,3,3,2,2
+4/23/2023 19:53:56,vidya.jaan03@gmail.com,Female,19,b.optometry,3,5,5,5,2,2,3,2,4,2,3,5,3,5,2,4,5,2,4,5
+4/23/2023 19:54:57,manojnaren8291@yahoo.com,Male,19,MBBS,2,3,2,4,3,3,4,2,2,3,2,3,4,3,3,4,2,3,2,4
+4/23/2023 19:54:57,Sec21me023@sairamtap.edu.in,Male,19,B.Optometry,3,3,4,3,2,3,5,3,5,3,2,4,5,3,2,2,4,2,4,2
+4/23/2023 19:57:10,ajaykrishnan@yahoo.com,Male,21,BSc Chemistry,4,4,2,2,2,3,3,3,4,3,4,3,3,4,2,3,2,2,4,2
+4/23/2023 19:57:10,sivakumaraadharsha@gmail.com,Female,19,B.optometry,5,3,5,2,5,2,5,3,2,4,5,5,3,2,5,2,3,4,3,5
+4/23/2023 19:57:39,reethikareethi@gmail.com,Female,21,AI DS,3,4,3,4,3,4,4,2,3,4,4,3,4,2,4,4,3,4,3,3
+4/23/2023 19:57:39,gananathji2@gmail.com,Male,19,BTech IT,2,2,5,5,4,3,5,4,3,5,4,3,5,5,4,3,4,2,2,4
+4/23/2023 19:57:57,ayaanamohan19@gmail.com,Male,19,BCA,4,3,2,2,4,2,3,4,2,4,4,4,2,4,2,4,3,3,4,4
+4/23/2023 19:57:57,b.ajith6123@gmail.com,Male,19,B.optom,3,2,2,4,5,2,4,4,5,4,4,5,5,3,2,3,2,5,2,2
+4/23/2023 19:58:23,vijivijayalakshmi@gmail.com,Female,19,MBA,2,3,2,4,4,2,2,4,2,4,3,2,4,3,3,3,2,2,2,3
+4/23/2023 19:58:23,chandukarudr@gmail.com,Male,17,CSBS,2,4,2,2,3,2,5,2,4,2,4,2,3,5,2,3,4,2,4,5
+4/23/2023 19:59:17,aaradhana.karthi@gmail.com,Female,19,Engineering,4,3,4,4,4,4,2,2,3,3,4,2,2,4,3,2,4,3,4,3
+4/23/2023 19:59:17,joesamy47@gmail.com,Male,17,Mtech,2,3,5,3,4,4,2,2,3,2,3,2,5,5,5,2,3,4,5,2
+4/23/2023 19:59:22,priyanka2233@gmail.com,Female,21,Architecture,2,3,4,4,3,2,4,4,3,2,3,4,3,4,3,2,3,4,4,4
+4/23/2023 19:59:22,thirups.sv@gmail.com,Male,18,Undergraduate,2,2,5,2,4,4,3,5,3,4,5,5,2,5,3,3,5,3,4,5
+4/23/2023 20:00:05,shrinika@gmail.com,Female,23,BBA,1,2,2,2,1,2,2,1,3,1,1,3,2,1,2,1,3,1,2,2
+4/23/2023 20:00:05,smahalakshmi2@student.tce.edu,Female,19,UG 1st Yr,2,4,2,5,2,5,5,4,4,3,2,4,5,5,5,3,4,5,4,3
+4/23/2023 20:00:06,meenakshi2301@gmail.com,Female,25,Arch,2,2,3,1,2,3,3,1,2,1,2,3,1,3,2,2,2,2,1,1
+4/23/2023 20:00:06,hrushikesh@student.tce.edu,Male,20,Mechatronics,4,5,3,4,5,2,4,3,4,2,3,2,5,2,5,4,3,3,2,5
+4/23/2023 20:00:54,manojkumar1991@yahoo.com,Male,20,BE IT,3,3,1,2,1,3,3,3,1,3,3,2,2,1,2,2,3,1,3,1
+4/23/2023 20:00:54,appiyavenkatesh@gmail.com,Male,19,Msc,3,3,2,3,4,2,3,4,5,3,2,4,2,2,3,2,3,5,3,3
+4/23/2023 20:01:58,lakmanakumarlk@gmail.com,Male,19,BSc agri,1,2,1,3,1,2,1,1,2,2,3,1,2,3,3,2,1,1,3,2
+4/23/2023 20:01:58,vivega233@gmail.com,Female,19,BSc Physics,4,4,5,4,4,4,4,4,5,2,5,5,4,4,5,5,5,3,4,3
+4/23/2023 20:02:03,shanthishanthi55@gmail.com,Male,18,MSc Phy,3,2,2,2,1,3,2,2,3,1,3,2,1,1,2,3,2,3,3,3
+4/23/2023 20:02:03,sec21me091@sairamtap.edu.in,Male,19,B.sc,2,5,4,5,3,5,3,5,4,2,5,2,4,2,4,2,4,4,5,5
+4/23/2023 20:02:33,greenapple34@gmail.com,Female,22,BBA,3,1,1,3,3,1,3,1,1,3,2,3,1,2,3,3,1,1,1,2
+4/23/2023 20:02:33,svsb1910@gmail.com,Male,20,B.optometry ,3,3,2,5,3,4,2,4,2,4,4,2,5,2,5,3,4,4,4,3
+4/23/2023 20:03:41,raaghulcc@gmail.com,Male,22,Master of Science,2,3,3,1,3,2,1,2,3,1,1,1,3,1,2,2,1,3,1,1
+4/23/2023 20:03:41,rithishkanna@student.tce.edu,Male,19,Mtech,5,4,5,5,5,2,3,2,4,3,3,4,4,4,4,3,2,4,5,5
+4/23/2023 20:10:13,priyakathiravan@gmail.com,Female,21,BSc Fashion Designing,1,1,2,3,1,3,1,1,2,1,1,1,3,3,2,3,1,1,2,1
+4/23/2023 20:10:13,rsgiridharan10@gmail.com,Male,20,BSC,3,3,2,4,5,4,2,4,3,4,2,4,3,4,4,5,4,5,3,3
+4/23/2023 20:11:19,monish.vairamani22@gmail.com,Male,23,BBA,2,3,2,2,1,3,1,1,3,3,2,2,3,2,2,1,1,2,2,1
+4/23/2023 20:11:19,13032003hari@gmail.com,Male,20,MBBS,5,4,3,4,2,5,5,4,5,5,3,5,3,5,5,2,2,5,5,2
+4/23/2023 20:13:25,kiki2121@gmail.com,Female,19,MCA,3,2,3,1,1,1,3,1,2,3,3,2,2,1,3,2,1,1,3,2
+4/23/2023 20:13:25,joshiga26@gmail.com,Female,20,Btech,4,2,5,3,3,4,3,5,4,3,2,4,5,4,3,5,5,5,5,3
+4/23/2023 20:13:48,devi678@gmail.com,Female,22,BTech CSBS,2,2,1,2,3,1,1,1,1,2,1,3,3,3,1,3,3,2,2,2
+4/23/2023 20:13:48,latha@student.tce.edu,Female,19,Bcom,3,4,3,5,2,2,2,4,5,2,5,3,4,4,2,3,5,4,4,5
+4/23/2023 20:16:19,balamurugan0201@gmail.com,Male,23,BE Information Technology,1,1,1,2,3,3,2,3,3,1,1,2,1,2,2,2,3,1,2,1
+4/23/2023 20:16:19,vkrathimeena@gmail.com,Female,19,BDS,5,4,5,5,3,3,2,4,5,2,2,2,3,3,3,3,3,5,5,2
+4/23/2023 20:16:47,santhoshkumar0976@gmail.com,Male,18,EEE,1,2,2,2,2,3,3,1,3,3,2,2,3,3,3,3,2,2,3,1
+4/23/2023 20:16:47,charan6501@gmail.com,Male,20,Bsc viscom,4,2,2,4,3,2,2,2,5,4,3,2,4,2,5,4,2,2,2,3
+4/23/2023 20:18:29,thipak234@gmail.com,Male,23,EEE,1,2,1,1,2,1,2,3,1,2,3,2,3,3,2,3,3,3,1,3
+4/23/2023 20:18:29,gsureshmanieb@gmail.com,Male,19,IT,3,4,3,2,3,3,2,2,4,4,2,3,5,4,5,5,5,3,5,3
+4/23/2023 20:21:52,paulchandran0278@gmail.com,Male,19,BCom PA,1,3,3,1,2,1,3,2,3,3,3,1,1,2,3,2,3,3,3,2
+4/23/2023 20:21:52,rithankumar17@gmail.com,Male,20,VISCOM,5,3,3,2,2,3,5,2,3,4,4,5,3,4,2,2,4,3,2,3
+4/23/2023 20:28:49,sakthivel0202@gmail.com,Male,18,UG,2,3,1,3,3,3,2,3,1,2,2,3,1,3,2,2,2,1,2,1
+4/23/2023 20:28:49,mona.shivakkumar@gmail.com,Female,17,MSc,5,4,2,4,4,3,2,5,2,4,4,5,3,2,4,5,4,2,5,3
+4/23/2023 20:29:44,hrushikesh2323@gmail.com,Male,24,Undergraduate,3,2,2,2,1,3,1,2,3,3,3,3,2,3,3,3,2,3,2,2
+4/23/2023 20:29:44,hiruthik@student.tce.edu,Male,19,BDS,5,3,2,2,5,2,3,4,4,4,2,5,2,2,2,3,5,4,5,2
+4/23/2023 20:30:24,maniiiii@gmail.com,Male,22,BSc,3,3,1,2,2,2,2,2,2,1,3,3,1,1,3,1,3,3,3,3
+4/23/2023 20:30:24,jmadhumitha1403@gmail.com,Female,19,B.Tech Mechanical Engineering in spec. in Electric Vehicles ,5,3,3,3,5,3,4,2,5,2,4,5,5,5,4,5,2,4,3,4
+4/23/2023 20:32:24,gokulapragadeeshhh@gmail.com,Male,19,BTech,2,3,2,3,3,1,1,3,1,2,2,3,2,3,3,2,2,2,2,2
+4/23/2023 20:32:24,Varshasmail0@gmail.com,Female,19,BE MECHATRONICS ,2,5,4,5,2,5,4,2,2,4,3,5,2,4,3,3,2,3,5,2
+4/23/2023 20:33:03,lokeshwaran.alagarsamy@gmail.com,Male,20,PG,3,2,2,3,1,2,1,3,1,3,2,2,3,2,1,2,1,1,3,1
+4/23/2023 20:33:03,rakshitharaachel111@gmail.com,Female,17,B.Optometry ,3,5,4,4,5,4,2,5,2,5,2,4,4,4,2,3,3,2,5,3
+4/23/2023 20:35:40,mskahilan@gmail.com,Male,18,B.com,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+4/23/2023 20:35:44,soundaryathirupathy67@gmail.com,Female,21,MSc CS,5,3,4,5,3,5,2,2,4,2,2,3,3,3,3,5,5,3,3,2
+4/23/2023 20:35:44,sathishkumarkriya@gmail.com,Female,14,Bsc,2,2,4,3,5,5,4,5,5,2,5,5,3,3,2,5,4,2,5,5
+4/23/2023 20:37:50,aishwariyaa@student.tce.edu,Female,19,Msc data science ,3,3,2,3,3,2,2,3,4,3,3,3,3,3,3,3,3,3,3,3
+4/23/2023 20:40:58,ishanakirupa@gmail.com,Female,20,UG 2 nd year,5,5,5,3,3,5,2,5,3,3,3,4,4,2,3,5,4,3,4,2
+4/23/2023 20:40:58,shasicaramarajnp@gmail.com,Female,18,ARCH,3,2,3,3,2,3,3,5,2,5,3,5,2,5,5,5,4,3,3,2
+4/23/2023 20:43:06,akshayahariharan@gmail.com,Female,18,MCA,4,3,2,5,2,2,2,3,3,2,5,5,4,5,3,5,3,2,2,5
+4/23/2023 20:43:06,sharjilakachari@gmail.com,Female,21,BDS,5,4,2,3,3,2,3,3,2,4,3,5,3,3,3,5,3,5,4,5
+4/23/2023 20:44:37,poornimaravii@gmail.com,Female,25,B.sc,3,5,4,2,2,5,3,3,5,2,2,4,5,3,5,5,2,2,4,3
+4/23/2023 20:44:37,navyasingaravelan4@gmail.com,Female,15,Attendance ,3,4,2,5,2,2,5,2,2,2,3,4,4,5,4,3,3,2,3,4
+4/23/2023 20:45:29,milkmannigger@gmail.com,Male,19,b tech,2,3,2,5,3,2,2,5,2,3,4,3,4,3,3,5,3,4,2,2
+4/23/2023 20:45:29,mmahalakshmi@student.tce.edu,Female,19,CSE,3,4,5,4,2,2,3,3,2,4,5,5,4,2,4,2,5,2,3,4
+4/23/2023 20:47:42,samkook19092003@gmail.com,Female,20,ME,2,2,3,3,2,3,2,2,4,5,5,2,4,4,2,2,3,5,5,3
+4/23/2023 20:47:42,reenasekar03@gmail.in,Female,19,B.sc,2,3,5,4,4,3,3,3,3,2,4,2,4,4,4,3,4,3,4,2
+4/23/2023 20:52:45,balasivam@tce.edu,Male,19,Mechatronics,3,2,3,2,4,2,2,5,5,4,5,2,4,4,4,3,3,5,3,4
+4/23/2023 20:52:45,2112104@nec.edu.in,Female,18,Btech IT,2,5,2,2,5,2,3,2,5,4,4,2,2,2,2,2,5,2,4,3
+4/23/2023 20:54:03,shalusubash12@gmail.com,Female,20,Bsc,2,5,5,4,3,3,5,5,5,3,4,3,5,3,2,2,5,3,3,2
+4/23/2023 20:54:03,joegabriel061@gmail.com,Male,19,Btech Computer science ,5,3,4,5,4,4,4,4,2,4,3,4,3,5,3,2,2,4,2,4
+4/23/2023 20:57:56,dharshi2711@gmail.com,Female,19,BE Robotics and Automation,5,4,4,5,2,5,2,4,2,2,2,3,2,5,5,5,4,4,5,2
+4/23/2023 21:19:48,skanishka.vasu@gmail.com,Female,19,BCOM PA ,4,4,5,4,3,3,3,3,4,4,4,4,3,3,4,3,3,3,3,4
+4/23/2023 22:32:06,rajavelkarthi811@gmail.com,Male,18,B. Com pa,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+4/23/2023 22:47:05,keerthanak11a2019.2020@gmail.com,Female,18,BE,4,2,5,2,2,1,2,4,4,4,4,3,3,3,3,3,2,4,4,4
+4/23/2023 22:49:15,shreemathi19sk@gmail.com,Female,19,BE,4,5,4,3,3,4,4,4,4,4,4,3,4,4,3,4,3,3,3,4
+4/23/2023 22:55:39,nithu1704@gmail.com,Female,19,BSc Viscom,2,1,2,1,2,1,2,3,2,1,2,2,1,1,1,1,1,2,3,1
+4/23/2023 22:57:14,lakshmishri0807@gmail.com,Female,20,MBBS,3,2,1,2,3,2,2,3,1,2,2,3,3,2,2,3,1,1,2,1
+4/23/2023 22:59:28,sakthi.1911@gmail.com,Male,22,MCom,3,2,3,3,3,2,3,2,1,2,2,3,1,2,3,1,2,2,1,2
+4/23/2023 23:04:11,srethan@student.tce.edu,Male,19,Bcom,4,3,2,3,3,3,3,3,3,4,4,3,4,4,4,3,4,2,3,5
+4/23/2023 23:04:22,varshula10@gmail.com,Female,19,BSc Maths,4,5,5,4,4,5,4,5,5,4,3,4,5,1,1,3,3,3,3,5
+4/23/2023 23:12:08,keerthanakumar1625@gmail.com,Female,18,Btech,2,1,3,2,1,3,3,4,2,1,5,2,1,2,1,3,2,2,1,2
+4/23/2023 23:15:30,bsathyasri2005@yahoo.com,Female,22,MCA,2,2,1,2,1,2,1,2,2,2,3,1,5,1,2,2,1,2,1,1
+4/23/2023 4:17:50,sujan@student.tce.edu,Male,19,Msc data science ,3,2,4,,3,2,3,2,4,2,1,2,1,1,1,2,2,3,3,2
+4/23/2023 6:24:49,suprajavijay5@gmail.com,Female,19,Bachelor's ,3,3,5,5,1,4,2,5,4,5,1,1,5,1,4,2,2,3,4,5
+4/23/2023 6:55:27,urstrulydeva1@gmail.com,Female,18,BE,3,2,,4,3,3,3,4,3,3,5,4,5,4,3,4,3,3,3,5
+4/23/2023 7:22:58,mpyraghul@gmail.com,Male,19,M.Sc Integrated Geography ,3,3,3,3,4,3,3,2,3,1,5,4,4,4,5,2,4,5,3,5
+4/23/2023 7:24:59,keerthikak@student.tce.edu,Female,18,B.E,4,2,3,4,3,3,4,4,3,4,4,4,4,4,4,4,3,3,4,4
+4/23/2023 7:31:14,psnl.nlism@gmail.com,Female,19,CSE ,3,4,4,4,4,3,4,4,4,5,5,2,5,5,4,5,4,4,4,5
+4/23/2023 7:50:16,janakiramanp@student.tce.edu,Male,19,B TECH IT,4,3,4,3,4,3,3,3,4,4,4,3,3,4,3,3,3,3,3,4
+4/23/2023 8:02:55,srivathsank@student.tce.edu,Male,19,B Tech,3,4,3,3,3,4,3,3,3,3,2,3,2,3,4,2,3,3,3,3
+4/23/2023 8:15:47,skvarshasivakumar@gmail.com,Female,20,BE CSE,4,3,4,2,2,1,4,5,4,5,4,4,5,4,4,3,1,2,4,4
+4/23/2023 8:21:01,habhinav2003@gmail.com,Male,19,Btech CSE core ,3,4,4,4,4,4,4,4,4,4,4,5,4,4,4,3,5,5,4,5
+4/23/2023 8:26:29,dheekshikarashmi@gmail.com,Female,18,Architecture ,3,5,3,4,4,5,3,4,4,4,4,4,4,4,5,4,4,4,4,4
+4/23/2023 8:33:15,kurinjiblue@gmail.com,Female,19,BE ECE,3,4,4,3,4,2,3,4,5,4,3,4,4,3,4,3,3,5,4,5
+4/23/2023 8:33:58,divyadivya250706@gmail.com,Female,18,IT,3,1,3,1,2,3,1,3,2,2,4,4,5,4,4,4,4,4,4,4
+4/23/2023 8:43:22,avina@student.tce.edu,Female,19,B.E,4,4,4,4,4,3,4,5,4,4,4,4,4,5,4,5,4,4,4,4
+4/23/2023 8:43:26,sspriyadharshini28@gmail.com,Female,21,BE,4,4,4,4,4,4,5,5,5,4,4,4,5,5,4,5,4,4,4,5
+4/23/2023 8:46:20,kannand@student.tce.edu,Male,19,bTech IT,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/23/2023 8:50:34,harshinilara@student.tce.edu,Female,19,IT,4,4,4,4,4,3,3,3,4,4,4,5,5,4,4,4,4,4,4,5
+4/23/2023 9:00:50,kathirvelm@student.tce.edu,Male,19,BE,3,4,3,4,4,4,4,4,4,3,4,3,4,4,4,3,2,3,4,4
+4/23/2023 9:25:21,kamalinivinara@gmail.com,Female,18,Physics ,2,1,2,1,1,1,1,1,3,2,3,3,4,4,3,2,2,2,1,1
+4/23/2023 9:29:56,shriramrs@student.tce.edu,Male,18,Btech IT,4,2,1,3,3,1,2,1,1,1,4,3,4,4,3,5,2,3,2,3
+4/23/2023 9:33:10,21s023@psgtech.ac.in,Female,19,Bsc,3,2,2,2,2,1,4,3,3,3,3,2,2,3,5,4,2,4,3,5
+4/23/2023 9:39:40,visalimoorthy2006@gmail.com,Female,16,Accomplishing neet ,3,2,4,5,4,3,3,3,3,5,4,5,3,5,3,4,3,5,4,3
+4/23/2023 9:40:24,rtmohitha@gmail.com,Female,19,BE Aeronautical ,3,1,2,2,2,1,1,2,1,1,5,4,5,3,3,1,1,2,4,5
+4/23/2023 9:40:33,rahulganesh14102004@gmail.com,Male,18,Data science ,4,3,3,5,4,2,3,5,5,2,3,4,5,4,3,4,2,4,3,4
+4/23/2023 9:42:44,dhanushphilip41@gmail.com,Male,19,AYUSH,4,4,4,3,4,4,4,4,4,4,4,4,3,4,3,4,4,3,4,3
+4/23/2023 9:44:43,ragulsn518@gmail.com,Male,19,BE cse,4,4,4,4,4,3,4,4,4,3,4,3,5,5,4,4,3,4,5,4
+4/24/2023 0:36:24,poorvajasridhar@gmail.com,Female,21,BE CSE,4,3,3,3,1,3,3,4,4,4,4,3,5,4,3,4,2,2,3,4
+4/24/2023 11:50:13,sathyabamacatering@gmail.com,Female,18,Msc.Data Science,4,3,2,2,1,2,2,2,2,2,2,3,2,3,2,3,2,3,3,2
+4/24/2023 11:51:04,prkubendran@gmail.com,Male,20,Msc.Data science,2,3,2,3,2,1,3,3,2,3,3,2,3,2,3,2,3,2,3,2
+4/24/2023 11:51:47,tejaswini@student.tce.edu,Female,18,Msc.Data science,3,2,3,2,3,3,3,4,3,2,3,3,2,3,1,3,2,3,1,3
+4/24/2023 11:55:33,farehasulthana2004@gmail.com,Female,18,English Literature ,5,3,3,5,3,3,3,3,3,3,3,3,4,4,3,3,3,3,2,3
+4/24/2023 12:20:26,keerthanadevim@student.tce.edu,Female,18,Msc ds,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/24/2023 12:21:01,marlin@student.tce.efu,Female,19,Msc Data science ,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/24/2023 12:37:00,harinnis9@gmail.com,Female,18,Data science ,3,3,4,4,4,4,4,5,4,4,5,4,5,3,4,3,4,5,3,3
+4/24/2023 12:37:16,tirupathiaishwariyaa@gmail.com,Female,19,  Msc data science ,2,1,2,1,2,1,3,2,2,2,2,1,1,2,2,2,2,1,2,2
+4/24/2023 12:39:36,sowmyasd@student.tce.edu,Male,19,Data Science ,3,3,2,3,2,1,3,1,2,4,2,2,3,3,3,1,2,3,3,2
+4/24/2023 13:07:44,shafiyaafrin2003@gmail.com,Female,19,Bsc 2nd year ,4,3,4,3,4,4,3,4,4,4,5,4,4,5,5,4,3,4,4,4
+4/24/2023 18:51:42,vetriselvi4664@gmail.com,Female,19,Undergraduate ,3,1,3,2,3,2,3,4,3,3,4,3,4,4,2,4,3,4,3,3
+4/24/2023 20:30:22,Reshmaselvaraj5@gmail.com,Female,19,Undergraduation,4,4,5,4,5,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4
+4/24/2023 21:07:22,boomikasuresh27@gmail.com,Female,19,B. E CSE,4,5,4,3,4,4,4,3,3,4,5,5,5,4,4,4,4,4,3,5
+4/24/2023 22:38:17,sumaiyamunavara7@gmail.com,Female,19,B.E,4,3,4,3,3,3,3,4,4,3,3,5,4,3,3,3,3,3,3,3
+4/24/2023 23:59:41,danny10arvin@gmail.com,Male,21,Bachelor of Engineering ,3,2,3,2,2,2,3,2,4,4,5,4,4,5,4,4,3,4,4,4
+4/25/2023 0:10:48,tezhaswine@student.tce.edu,Female,20,B tech IT,1,2,3,3,4,3,3,4,3,3,1,5,2,2,2,3,3,3,3,5
+4/25/2023 0:27:58,janakiraman0634@gmail.com,Male,19,BE ECE,4,3,4,3,4,4,4,4,5,5,4,3,5,5,5,5,4,4,5,4
+4/25/2023 18:22:10,tjayam2002@gmail.com,Female,19,Msc data science ,2,2,3,3,2,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2
+4/25/2023 18:23:11,thirups.sv@gmail.com,Female,19,Msc data science ,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3
+4/25/2023 18:24:12,adithiyaavaikund@gmail.com,Male,18,BSc,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,3
+4/25/2023 19:23:14,rahulllll@gmail.com,Male,21,IT,3,2,3,4,3,4,3,5,4,2,4,3,4,3,2,4,2,2,3,2
+4/25/2023 19:43:45,varshal@student.tce.edu,Female,19,Msc,1,2,3,2,2,3,3,3,3,2,2,5,2,3,2,2,4,2,3,3
+4/25/2023 19:45:57,meat2019frvr@gmail.com,Female,19,b.com,2,2,2,1,2,3,3,3,2,2,2,3,2,3,3,4,3,3,2,3
+4/25/2023 19:58:17,shateekaraman@gmail.com,Female,19,Aeronautical 2nd yr,4,2,4,3,3,4,3,1,2,4,2,2,4,4,4,5,5,3,4,4
+4/25/2023 19:59:24,vishnuvishnu61772@gmail.com,Male,19,Aeronautical engineering ,2,2,3,2,3,4,2,2,2,4,4,5,4,4,3,5,1,1,2,3
+4/25/2023 20:00:49,ramsaybolton@gmail.com,Male,21,B.E.IT,1,3,3,2,3,4,1,4,2,4,4,3,3,3,1,3,5,1,3,3
+4/25/2023 20:02:52,hari@gmail.com,Male,19,IT,4,1,4,3,3,2,4,2,3,3,4,3,3,4,3,2,4,2,4,4
+4/25/2023 20:03:04,cheekusanthiya17@gmail.com,Female,21,MCA,5,4,3,4,4,4,3,3,5,4,5,4,5,5,3,5,5,5,5,5
+4/25/2023 20:04:41,varshu27032003@gmail.com,Female,20,BE-III YEAR,4,3,4,4,3,3,4,3,4,4,3,3,4,3,4,4,4,3,4,4
+4/25/2023 20:06:55,priyasweety@gmail.com,Female,21,BCom,3,2,4,3,4,3,3,2,4,3,4,3,3,4,3,4,3,3,2,3
+4/25/2023 20:09:21,anoor@gmail.com,Male,18,bsc,1,2,3,2,1,2,2,1,1,2,1,2,2,1,3,2,1,1,2,2
+4/25/2023 20:10:20,gurucoolmsd@gmail.com,Male,19,M tech CSE,4,3,3,3,3,4,4,5,4,3,3,4,4,4,3,3,3,3,3,4
+4/25/2023 20:10:43,sivakarthikeyan1102@gmail.com,Male,20,Viscom,3,4,5,5,4,3,4,5,4,3,4,3,4,4,5,3,4,3,4,3
+4/25/2023 20:11:15,karthik12@gmail.com,Male,20,Mtech,2,3,1,3,2,1,3,4,2,3,3,2,1,2,2,1,3,1,2,1
+4/25/2023 20:12:21,rampwalkremo@yahoo.com,Male,20,BDS,4,1,2,1,1,2,3,2,2,1,2,1,3,2,1,2,2,1,2,1
+4/25/2023 20:12:49,anitha@yahoo.com,Female,23,MCA,4,2,1,2,3,2,3,2,1,1,1,2,1,3,2,1,1,2,2,1
+4/25/2023 20:14:19,sujithaesaiyazhagan@gmail.com,Female,18,Bnys,5,5,5,5,5,5,5,5,5,4,5,4,5,5,3,5,5,5,4,4
+4/25/2023 20:16:09,anathreeka162003@gmail.com,Female,20,BE,1,2,3,2,1,1,1,1,2,2,2,1,2,2,1,2,5,1,2,5
+4/25/2023 20:17:20,thejussimon@gmail.com,Male,19,BCom PA,2,1,2,3,2,1,2,1,2,1,3,2,2,3,2,3,2,2,3,2
+4/25/2023 20:19:07,sakthiman@gmail.com,Male,20,BE,2,4,1,1,3,5,4,5,2,3,4,1,2,4,3,1,3,1,5,1
+4/25/2023 20:19:50,paul0505@gmail.com,Male,21,Mechanical,3,2,4,4,3,2,3,4,3,4,3,2,1,3,2,3,3,2,1,1
+4/25/2023 20:20:54,rameshram@gmail.com,Male,19,MBBS,3,3,4,3,4,3,4,3,4,3,1,4,3,2,3,2,3,2,3,4
+4/25/2023 20:20:56,bheembheem@gmail.com,Male,21,Arch,2,1,2,1,2,2,2,3,1,2,1,2,1,2,3,3,2,2,1,1
+4/25/2023 20:22:14,bhuvanika2307@gmail.com,Female,21,MBBS,3,4,3,4,3,3,4,3,2,1,2,3,3,3,2,2,3,1,3,1
+4/25/2023 20:22:49,avanthikababu@gmail.com,Female,20,B.Arch,1,1,3,2,2,2,3,1,3,3,1,3,2,3,2,2,1,2,3,1
+4/25/2023 20:25:19,karthickkarthick1853@gmail.com,Male,19,.net,3,1,1,3,4,5,5,2,3,1,1,1,4,4,5,4,1,2,4,4
+4/25/2023 20:25:34,deepikavenkatachalam@gmail.com,Female,22,MBA,1,3,3,2,3,1,5,5,2,3,2,1,2,3,4,2,3,1,3,1
+4/25/2023 20:25:49,varshitha10@gmail.com,Female,21,MCom,2,3,2,3,4,2,3,4,3,4,3,4,3,4,3,5,3,5,4,4
+4/25/2023 20:26:30,romariojr12@gmail.com,Female,20,MBBS,2,1,2,5,2,5,2,1,4,3,2,1,5,3,1,2,1,2,3,2
+4/25/2023 20:28:27,rajarvp@gmail.com,Male,23,BCA,2,3,2,3,2,4,1,2,1,2,3,2,2,3,2,3,2,2,3,2
+4/25/2023 20:29:41,sugivijay324@gmail.com,Male,21,MSc,2,3,2,1,2,1,3,1,3,2,3,2,2,2,1,1,2,1,2,1
+4/25/2023 20:29:55,nirupathyvaishnavan@gmail.com,Male,22,MBA,1,3,2,3,1,4,2,1,4,3,2,3,4,2,1,3,2,1,4,4
+4/25/2023 20:30:13,niruvaish21@gmail.com,Male,20,MSC,2,1,3,3,1,2,2,3,3,1,4,2,4,2,1,2,4,2,5,2
+4/25/2023 20:30:33,narendraprasath@gmail.com,Male,23,MBBS,2,3,2,4,1,5,3,3,2,3,4,2,3,2,4,2,4,2,1,4
+4/25/2023 20:30:42,preetha1234@gmail.com,Female,23,MBBS,2,3,2,3,2,1,2,1,2,2,3,2,3,2,3,3,2,1,2,1
+4/25/2023 20:30:48,npnp@gmail.com,Male,19,mech,2,1,2,3,1,2,1,2,3,1,3,1,2,2,1,2,1,3,2,1
+4/25/2023 20:32:00,midhunrg@gmail.com,Male,22,MBA,2,3,4,2,3,2,2,1,3,2,1,2,1,2,3,1,2,1,2,1
+4/25/2023 20:32:31,netjames@yahoo.co.in,Male,21,viscom,2,3,1,2,3,2,3,1,3,2,3,1,2,3,2,1,3,2,1,2
+4/25/2023 20:32:57,vickyvickyy@gmail.com,Male,20,Viscom,1,3,2,4,1,3,3,2,4,2,4,1,4,1,3,2,3,2,1,1
+4/25/2023 20:33:06,dhruvvikram26@gmail.com,Female,24,Btech,1,5,2,3,1,2,1,3,3,2,1,2,3,4,5,3,2,2,1,1
+4/25/2023 20:34:16,ayazzzzzz@gmail.com,Male,19,BCom,2,2,1,2,1,2,1,2,1,2,2,3,2,1,2,2,1,2,1,2
+4/25/2023 20:34:41,yazhinidarjiling@gmail.com,Female,20,b.arch,4,3,2,1,2,3,1,2,3,1,2,1,3,2,3,1,2,3,2,1
+4/25/2023 20:35:35,irfaan@yahoo.com,Female,21,Msc,5,2,1,2,3,2,1,1,2,1,2,1,1,2,3,4,2,1,5,2
+4/25/2023 20:36:44,hazelshiny@gmail.com,Female,22,MSc CS,2,3,2,1,3,2,1,2,1,2,2,3,2,2,1,3,1,2,1,2
+4/25/2023 20:36:48,suprajavijay5@gmail.com,Female,19,UG 2 nd year,5,4,5,5,5,2,2,5,4,4,1,1,1,1,1,3,3,2,4,3
+4/25/2023 20:37:13,viva@gmail.com,Female,20,MCA,5,4,3,2,1,2,3,2,3,1,3,2,1,3,2,2,3,1,1,3
+4/25/2023 20:39:21,hebsibafernando@gmail.com,Female,20,B.sc,1,4,3,2,1,3,2,4,2,3,5,1,2,4,1,4,4,4,2,1
+4/25/2023 20:41:41,chaitanya192004@gmail.com,Male,20,b tech,4,3,4,3,5,3,3,3,4,3,4,3,5,3,4,3,4,3,5,4
+4/25/2023 20:44:08,aravindsankar@yahoo.com,Male,23,ME,1,2,1,3,2,1,1,2,2,3,2,1,2,1,3,2,2,1,5,1
+4/25/2023 20:46:20,balajiprabhu0907@gmail.com,Male,21,Mechatronics,2,1,2,2,3,2,1,2,1,2,2,1,2,1,2,1,2,1,2,3
+4/25/2023 20:49:03,Mahathikumar25@gmail.com,Female,18,Bsc,2,1,3,2,1,4,5,2,1,2,1,3,2,2,1,5,1,2,1,5
+4/25/2023 20:49:37,vkanthishnu@gmail.com,Male,19,BE Robotics and Automation,5,3,4,3,4,1,2,4,1,4,5,5,5,5,4,5,5,3,4,3
+4/25/2023 20:50:50,darshanaa1912@gmail.com,Female,19,BSc,5,4,3,4,3,3,4,3,4,3,4,5,4,5,4,5,4,4,5,4
+4/25/2023 20:52:35,kishore999@gmail.com,Male,21,CSE,2,3,3,2,2,3,3,4,3,2,2,3,2,3,3,4,3,2,3,4
+4/25/2023 20:52:35,vasanthabalakrishnan@yahoo.com,Female,22,BCA,2,1,3,1,2,1,2,5,1,5,5,2,1,1,3,4,2,1,2,3
+4/25/2023 20:54:43,swethasrinivasan357@gmail.com,Female,19,B.Optometry,3,2,3,4,4,3,3,2,3,3,5,4,4,4,4,5,3,3,4,4
+4/25/2023 20:57:54,dheekshikamahesh@gmail.com,Female,19,Arch,2,1,2,1,2,1,2,1,2,2,2,3,2,2,2,1,2,2,1,2
+4/25/2023 20:58:58,vnps1121@gmail.com,Female,22,MCA,1,2,1,2,3,1,2,2,3,2,2,3,3,2,2,3,2,3,2,3
+4/25/2023 20:59:51,125003470@sastra.ac.in,Female,19,B.Tech CSE,3,3,4,4,4,2,3,4,4,4,3,4,3,3,3,5,4,4,4,4
+4/25/2023 21:00:14,rithika1101@gmail.com,Female,19,BE,2,1,3,3,2,2,3,2,3,3,2,3,2,3,2,3,2,2,3,3
+4/25/2023 21:00:32,bharathikeerthi2004@gmail.com,Female,18,b.optometry,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/25/2023 21:01:12,sujigodwin26@gmail.com,Female,19,B.Optometry,2,5,2,3,3,3,4,1,1,2,3,3,3,4,1,4,3,3,4,3
+4/25/2023 21:01:26,ukswetha2000@gmail.com,Female,19,B.optometry,5,4,5,5,5,4,5,5,4,5,5,5,5,5,4,5,5,5,5,5
+4/25/2023 21:01:57,chocoboi23@gmail.com,Male,19,BTech IT,2,1,2,1,3,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3
+4/25/2023 21:02:43,vanisha25102002@gmail.com,Female,19,B.optom,3,4,4,3,5,5,4,4,5,4,5,5,5,4,3,4,4,5,5,4
+4/25/2023 21:02:56,vaishu.pandian2011@gmail.com,Female,19,CSBS,2,4,3,2,3,3,3,4,3,2,4,3,3,2,3,4,3,3,2,3
+4/25/2023 21:03:46,ramankumar@gmail.com,Male,25,Mtech,1,2,3,1,2,5,1,2,3,1,2,2,1,3,1,1,3,1,2,2
+4/25/2023 21:03:54,nihashini.11@gmail.com,Female,18,Undergraduate,4,4,3,4,5,4,4,5,4,5,3,4,5,4,3,4,4,5,4,4
+4/25/2023 21:05:08,sheshagopalan888@gmail.com,Male,18,UG 1st Yr,2,3,3,2,3,2,3,2,3,2,3,4,3,4,3,4,3,2,4,4
+4/25/2023 21:06:57,naveennk@gmail.com,Male,19,Mechatronics,2,3,3,4,3,4,3,4,5,4,3,4,4,4,5,4,5,4,5,4
+4/25/2023 21:07:41,harshini1802@gmail.com,Female,23,Msc,1,5,2,3,1,2,1,1,2,1,2,5,1,3,2,5,1,2,2,1
+4/25/2023 21:08:20,vishnu.vichu@gmail.com,Male,19,BSc Physics,3,2,4,2,3,4,3,4,2,3,4,3,2,3,4,3,4,3,4,3
+4/25/2023 21:10:53,susmitha2310@gmail.com,Female,20,B.sc,4,3,2,4,1,3,2,2,1,4,4,3,3,2,4,4,2,4,2,3
+4/25/2023 21:11:35,vipula1920@gmail.com,Female,19,B.optometry ,3,3,4,3,3,4,2,3,4,3,3,4,3,4,4,4,3,3,3,3
+4/25/2023 21:11:42,tejas1203@gmail.com,Female,19,Mtech,1,5,2,1,2,3,1,5,3,2,2,1,2,1,2,5,1,2,3,4
+4/25/2023 21:12:07,roshhhh@gmail.com,Male,19,BSC,2,1,2,3,2,1,2,3,2,1,2,3,2,3,2,3,2,3,2,3
+4/25/2023 21:13:27,dhanushmariaphilip@gmail.com,Male,19,MBBS,1,2,3,2,3,3,2,3,2,3,4,3,2,3,2,4,3,4,2,3
+4/25/2023 21:13:27,vjkumar2k4@gmail.com,Male,19,Btech,4,3,3,2,4,3,2,2,3,1,3,3,2,4,3,1,2,2,3,4
+4/25/2023 21:13:36,kripashankari2000@gmail.com,Female,23,Bcom,2,1,5,3,2,4,1,5,1,2,3,2,1,5,1,4,3,1,3,1
+4/25/2023 21:14:55,kanchana1105@gmail.com,Female,20,BDS,2,3,2,4,2,3,4,3,2,4,3,4,3,3,3,4,3,4,3,4
+4/25/2023 21:15:27,noodlespie@gmail.com,Female,21,Bsc viscom,1,3,2,5,1,3,2,1,3,4,1,4,1,3,1,5,4,3,1,2
+4/25/2023 21:15:59,parvatha.varthini@gmail.com,Female,19,IT,2,3,2,3,4,3,2,3,2,3,3,4,2,3,4,3,4,3,4,2
+4/25/2023 21:16:42,johnny2320@gmail.com,Male,19,VISCOM,2,1,2,3,2,1,2,2,1,3,1,2,1,2,3,2,1,2,1,2
+4/25/2023 21:16:59,kavyakavya2020@gmail.com,Female,21,MSc,2,3,4,5,4,3,5,4,3,5,4,3,4,3,4,3,5,5,4,4
+4/25/2023 21:17:16,abinayamugen2020@gmail.com,Female,22,BDS,1,3,2,1,1,5,2,1,3,1,2,2,2,5,1,2,3,2,1,2
+4/25/2023 21:17:38,vishalharshidhraghav@gmail.com,Male,18,B.Tech Mechanical Engineering in spec. in Electric Vehicles ,5,1,2,3,2,1,2,2,2,1,2,3,4,3,2,3,1,3,4,2
+4/25/2023 21:18:25,slogesh@student.tce.edu,Male,19,BE MECHATRONICS ,5,4,4,3,5,4,5,5,3,3,4,3,3,5,4,3,2,3,4,5
+4/25/2023 21:19:39,krishnansneha976@gmail.com,Female,19,B.Optometry ,4,3,4,3,3,4,4,5,5,5,5,3,4,5,3,4,4,5,5,5
+4/25/2023 21:21:17,gvp2626@yahoo.com,Male,22,Bsc,2,1,4,4,3,4,5,1,2,2,3,1,3,5,4,2,1,2,2,3
+4/25/2023 21:23:47,gaurav2323@gmail.com,Male,22,ARCH,4,3,4,3,2,3,3,2,4,2,2,3,3,2,3,2,3,2,3,2
+4/25/2023 21:24:32,rebeccagowtham@gmail.com,Female,24,BDS,3,2,1,5,3,2,4,2,1,2,3,2,1,4,2,3,1,2,3,1
+4/25/2023 21:26:06,mk26karthik@gmail.com,Male,19,Attendance ,3,3,3,3,2,2,3,3,3,3,4,4,4,4,4,4,4,3,4,4
+4/25/2023 21:26:11,shauryaa91@gmail.com,Male,19,CSE,2,3,1,3,2,1,2,3,1,2,2,1,3,2,1,2,3,2,1,2
+4/25/2023 21:27:36,rohan1309@gmail.com,Male,19,B.sc,4,3,3,3,4,3,4,3,4,5,5,4,5,5,4,5,4,4,5,4
+4/25/2023 21:27:45,dharsan02@gmail.com,Male,20,Btech IT,4,2,5,1,1,2,3,4,5,3,3,1,2,4,5,4,2,3,1,3
+4/25/2023 21:29:07,rohanregu@gmail.com,Male,19,Btech Computer science ,4,3,4,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4,4,4
+4/25/2023 21:29:32,maheshkumar@gmail.com,Male,22,M.Tech,2,3,2,1,3,1,3,4,2,1,3,2,1,3,4,2,3,1,3,3
+4/25/2023 21:30:20,roshan56@gmail.com,Male,21,M.Tech,3,3,2,3,1,3,2,4,2,2,1,3,3,2,3,2,2,3,3,3
+4/25/2023 21:31:23,aravroy.90.56@gmail.com,Male,19,B.sc,2,3,4,3,2,3,3,4,2,3,2,1,3,2,3,4,2,2,3,3
+4/25/2023 21:31:25,nithinsurya4@gmail.com,Male,18,B.Tech,4,3,4,4,5,3,3,4,5,4,5,5,5,5,2,2,2,4,3,5
+4/25/2023 21:31:25,ikarentanya25@gmail.com,Female,18,Mechanical,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+4/25/2023 21:33:44,rachelgreen2@gmail.com,Female,21,Msc,3,2,1,4,3,5,2,1,3,2,1,2,3,1,2,2,1,1,4,1
+4/25/2023 21:34:00,nivethabalamurugan678@gmail.com,Female,20,M.Sc,2,4,4,3,3,2,4,2,3,1,3,2,2,4,3,2,3,2,4,3
+4/25/2023 21:35:42,bhavithraganesh.96@gmail.com,Female,20,M.sc,2,3,3,2,4,3,1,3,4,2,3,2,4,2,3,2,1,4,3,2
+4/25/2023 21:36:57,kesanya1311@gmail.com,Female,20,EEE,3,2,2,2,2,3,2,3,2,3,2,3,2,3,4,2,3,2,3,2
+4/25/2023 21:38:01,shahrukhkhan123@gmail.com,Male,21,bca,1,2,1,1,2,3,2,1,2,1,2,2,1,2,1,2,1,2,1,2
+4/25/2023 21:38:59,mohammad.mohi@gmail.com,Male,22,MDS,2,3,2,1,2,3,2,3,3,2,3,2,4,3,2,3,4,3,4,3
+4/25/2023 21:39:19,mayankmark07@gmail.com,Male,22,BE,3,2,3,1,2,5,1,2,4,3,4,2,1,2,3,3,2,4,3,1
+4/25/2023 21:39:51,abinayasathyamoorthy@gmail.com,Female,21,ece,1,2,1,3,1,2,2,1,3,1,2,1,3,2,2,1,2,3,2,1
+4/25/2023 21:39:55,venkateshvenky@gmail.com,Male,22,MBA,2,3,2,3,2,4,3,2,3,4,3,2,3,4,3,2,3,3,4,3
+4/25/2023 21:40:20,suryakumaran2009@gmail.com,Male,23,MCom,2,3,4,4,2,2,4,3,2,3,3,2,4,4,2,3,3,2,3,4
+4/25/2023 21:40:57,anuthamasathyamoorthy19@gmail.com,Female,21,eee,2,3,2,1,3,2,1,3,1,3,1,2,3,1,2,1,2,1,2,1
+4/25/2023 21:41:40,suriyamsd7@gmail.com,Male,23,M.Tech,2,4,3,2,5,4,3,4,4,3,5,4,3,4,5,4,3,4,3,4
+4/25/2023 21:41:46,aadhi77744@gmail.com,Male,19,BSc,2,3,2,3,2,3,2,3,3,2,2,3,3,4,3,2,3,2,3,2
+4/25/2023 21:44:25,harishkumar0201@gmail.com,Male,21,BSc,2,4,4,3,2,4,3,4,3,2,4,3,3,3,4,2,4,5,3,2
+4/25/2023 21:45:50,adithyavaradarajan23@gmail.com,Male,21,Mechanical,3,4,2,4,3,3,2,3,3,4,3,2,4,4,3,3,2,4,3,2
+4/25/2023 21:46:08,pranavram274@gmail.com,Male,18,MBBS,3,2,4,4,4,4,4,4,3,2,5,5,3,3,3,3,3,3,3,3
+4/25/2023 21:47:05,sakthi1811@yahoo.com,Male,20,BE,1,2,2,5,3,4,3,2,1,2,3,1,1,2,3,5,3,2,1,2
+4/25/2023 21:50:36,sujithaesaiyazhagan@gmail.com,Female,18,Bnys,5,5,5,4,4,5,4,5,5,5,5,4,4,5,5,5,4,5,5,5
+4/25/2023 21:52:31,enochjebin@gmail.com,Male,19,2ND YEAR MBBS,3,1,1,2,1,1,1,1,1,1,5,1,5,1,1,1,1,1,1,5
+4/25/2023 21:59:48,sitalaxmi0806@gmail.com,Female,18,Biotechnology ,4,3,5,5,4,3,3,4,4,3,3,2,4,4,4,3,2,3,4,4
+4/25/2023 22:02:51,jj8030@srmist.edu.in,Female,20,B. Tech Biotechnology with specialisation in Genetic Engineering ,5,5,5,5,4,4,5,5,5,5,4,4,5,3,3,4,5,5,5,3
+4/25/2023 22:09:45,oviyaa2401@gmail.com,Female,18,IT,1,2,1,1,1,2,1,2,2,1,3,3,2,3,2,3,2,3,3,4
+4/25/2023 22:10:53,shruthzzz@gmail.com,Female,20,BSc FD,3,2,3,2,3,2,2,3,2,3,3,2,3,2,3,2,3,2,3,2
+4/25/2023 22:10:53,meera1209@gmail.com,Female,21,BBA,2,3,3,4,2,1,4,2,3,5,2,1,3,2,3,2,4,2,1,3
+4/25/2023 22:12:09,lakshana.11203@gmail.com,Female,21,PG,2,3,2,3,2,3,4,2,3,2,3,2,4,3,2,3,2,3,3,3
+4/25/2023 22:18:15,mehadax@gmail.com,Male,19,B.tech ,3,2,3,2,3,3,3,4,3,3,4,4,3,4,3,4,4,3,3,4
+4/25/2023 22:51:16,bragatheeshwarans2004@gmail.com,Male,19,Cybersecurity ,4,3,3,3,3,3,4,4,3,4,4,4,4,3,3,2,2,3,2,2
+4/25/2023 22:54:34,sharveshwaran158@gmail.com,Male,20,B.E(ECE 3RD YEAR),4,2,3,3,3,3,3,3,4,3,4,4,4,4,3,4,2,1,3,3
+4/25/2023 23:24:38,vishnuvigneshvicky@gmail.com,Male,19,Cybersecurity,4,3,5,4,5,5,5,4,5,4,5,4,5,4,3,4,4,5,5,5
